@@ -1,4 +1,19 @@
-#DirCop made by AB-X-AR
+print("""########     ####    ########      ######      #######     ########  
+##     ##     ##     ##     ##    ##    ##    ##     ##    ##     ## 
+##     ##     ##     ##     ##    ##          ##     ##    ##     ## 
+##     ##     ##     ########     ##          ##     ##    ########  
+##     ##     ##     ##   ##      ##          ##     ##    ##        
+##     ##     ##     ##    ##     ##    ##    ##     ##    ##        
+########     ####    ##     ##     ######      #######     ##       
+                     DIRCOP - Directory Finder Tool
+                     Author: ABXAR | License: MIT
+                          === FOLLOW ME ON ===
+                     X : https://x.com/ABXAR_7x30
+
+""")
+
+
+
 import requests
 def load_payloads(file_path):
     with open(file_path, 'r') as file:
