@@ -1,4 +1,4 @@
-# 🚪 DirCop – Advanced Directory & File Discovery Tool
+# DirCop – Advanced Directory & File Discovery Tool
 
 **DirCop** is a fast and flexible directory scanning tool written in Python.  
 Designed to help security researchers, bug bounty hunters, and CTF players find hidden or restricted resources on web servers.
